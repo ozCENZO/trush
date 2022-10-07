@@ -337,15 +337,9 @@ font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 66px;
-
-
 color: #000000;
-
-
 }
 .matn3{
-
-
 position: absolute;
 width: 415px;
 height: 75px;
@@ -362,8 +356,6 @@ color: #000000;
 
 }
 .raqam4{
-    /* 04 */
-
 position: absolute;
 width: 65px;
 height: 66px;
@@ -375,10 +367,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 66px;
-/* identical to box height */
-
-color: #000000;
-
+color: #000000;             
 
 }
 .matn4{
@@ -445,29 +434,21 @@ color: #000000;
 
 
 }
-.matn6{
+.yozuv9{
 position: absolute;
-width: 415px;
-height: 75px;
-left: 1182px;
-top: 5213px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 26px;
-color: #000000;
+width: 208px;
+height: 66px;
+left: 157px;
+top: 5531px;
+color: black;
 }
-
 .box23{
-position: absolute;
-width: 464px;
-height: 295px;
-left: 144px;
-top: 5646px;
-
-background: #A6A6A6;
-
+    position: absolute;
+    width: 464px;
+    height: 295px;
+    left: 144px;
+    top: 5646px;
+    background: #A6A6A6;
 }
 .box24{
 position: absolute;
@@ -484,4 +465,36 @@ height: 295px;
 left: 1120px;
 top: 5646px;
 background: #A6A6A6;
+}
+.yozuv10{
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    left: 169px;
+    top: 6216px;
+    color: #000000;
+}
+.box26{
+    position: absolute;
+    width: 476px;
+    height: 71px;
+    left: 169px;
+    top: 6300px;
+    background: #DCDCDC;
+}
+.box27{
+    position: absolute;
+    width: 476px;
+    height: 71px;
+    left: 169px;
+    top: 6389px;
+    background: #DCDCDC;
+}
+.tugma11{
+position: absolute;
+width: 476px;
+height: 58px;
+left: 169px;
+top: 6485px;
+background: #000000;
 }
